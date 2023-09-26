@@ -1,4 +1,4 @@
-5981
+5985
 113E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@swc\helpers\esm\_super_prop_base.js133396818572100470 0
 90E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\css-tree\data133396818591971611 1
 85E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\css-what133396818457028075 1
@@ -9,9 +9,9 @@
 154E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeUnknownsAndDefaults.js133396818555068322 0
 129E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Ratio.cjs133396818574341652 0
 93E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\svgo\lib\svgo.js133396818483395665 0
-76E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\package.json133396819705430536 0
+76E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\package.json133397526388831223 0
 133E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\css-select\node_modules\domutils\lib\manipulation.js.map133396818523974426 0
-70E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\App.js133396819676128981 0
+70E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\App.js133401787518764608 0
 158E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\ClassSelector.js133396818508114883 0
 93E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\posthtml\license133396818429115665 0
 144E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\general.d.ts133396818523609275 0
@@ -19,7 +19,7 @@
 94E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@msgpackr-extract133396818403419873 1
 106E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\css-tree\cjs\utils\string.cjs133396818519502267 0
 86E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@mischnic133396818403419873 1
-74E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\.gitignore133396651285166139 0
+74E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\.gitignore133397381483801092 0
 148E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\function\var.js133396818585650131 0
 94E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\lmdb\dependencies133396818552541820 1
 116E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\caniuse-lite\data\features\autofocus.js133396818472664573 0
@@ -35,8 +35,8 @@
 103E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\lightningcss\node\ast.d.ts133396818455491042 0
 118E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\scheduler\cjs\scheduler.production.min.js133396818423367810 0
 85E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\svgo\lib133396818490959908 1
-68E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\dist133396819717763889 1
-73E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\README.md133396560641668598 0
+68E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\dist133401787533648292 1
+73E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\README.md133397061500398208 0
 109E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\svgo\plugins\sortDefsChildren.js133396818477690690 0
 103E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\source-map-js\CHANGELOG.md133396818448340681 0
 108E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\caniuse-lite\data\regions\GI.js133396818597711580 0
@@ -44,7 +44,7 @@
 114E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\utility-types\dist\utility-types.d.ts133396818454720509 0
 99E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@swc\helpers\_\_update133396818591876382 1
 135E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\jsAPI.js133396818515521969 0
-74E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\index.html133396816976421123 0
+74E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\index.html133397662184952715 0
 123E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\csso\node_modules\mdn-data\css\properties.json133396818502960328 0
 86E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\callsites133396818440054737 1
 106E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\domhandler\lib\index.d.ts.map133396818440788187 0
@@ -111,7 +111,7 @@
 94E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\svgo\lib\style.js133396818478711776 0
 136E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\types.json133396818516644980 0
 114E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\css-tree\lib\tokenizer\TokenStream.js133396818590884073 0
-124E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\msgpackr-extract\node_modules\@msgpackr-extract133396819703557763 1
+124E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\msgpackr-extract\node_modules\@msgpackr-extract133396819704820429 1
 113E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\caniuse-lite\data\features\run-in.js133396818633221951 0
 120E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@parcel\workers\lib\threads\ThreadsChild.js133396818464822532 0
 83E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\braces133396818441165588 1
@@ -331,7 +331,7 @@
 99E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\css-tree\dist\data.cjs133396818464712496 0
 118E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\caniuse-lite\data\features\css-regions.js133396818586692295 0
 104E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\lightningcss-win32-x64-msvc133396818436848136 1
-100E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\lmdb\node_modules\@lmdb133396818643310916 1
+100E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\lmdb\node_modules\@lmdb133396819704820429 1
 94E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\svgo\package.json133396818484582163 0
 94E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\lines-and-columns133396818436858059 1
 108E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@parcel\source-map\package.json133396818470928913 0
@@ -1217,6 +1217,7 @@
 86E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@swc\core133396818462097173 1
 111E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\css-tree\lib\syntax\scope\value.js133396818591516336 0
 148E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.cmd133396818638020590 0
+87E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\dist\index.08ddfbe6.css133397075113920669 0
 143E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\reusePaths.js133396818562854073 0
 103E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\source-map-js\package.json133396818447459693 0
 116E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\css-tree\cjs\syntax\node\Identifier.cjs133396818476486314 0
@@ -2163,7 +2164,7 @@
 96E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\argparse\lib\sub.js133396818440798356 0
 127E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@parcel\transformer-babel\src\remapAstLocations.js133396818465047954 0
 110E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\lmdb\dependencies\lz4\lib\lz4hc.c133396818470015089 0
-91E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\dist\index.3a01df49.css.map133396819717703887 0
+91E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\dist\index.3a01df49.css.map133401752512514940 0
 120E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@mischnic\json-sourcemap\dist\index.js.flow133396818506947985 0
 111E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\lmdb\dependencies\lz4\lib\xxhash.h133396818556142954 0
 121E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\caniuse-lite\data\features\object-observe.js133396818627702601 0
@@ -2268,7 +2269,7 @@
 97E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\lightningcss\LICENSE133396818431088369 0
 116E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\css-tree\lib\syntax\node\Parentheses.js133396818587755196 0
 115E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@parcel\diagnostic\lib\diagnostic.d.ts133396818501692072 0
-102E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\lightningcss\node_modules133396819703542680 1
+102E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\lightningcss\node_modules133396819704830417 1
 130E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\css-select\node_modules\domhandler\lib\esm\index.d.ts133396818496721975 0
 108E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\css-tree\cjs\syntax\node\common133396818469724973 1
 137E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\htmlnano\docs\versioned_sidebars\version-2.0.0-sidebars.json133396818474396505 0
@@ -2500,7 +2501,7 @@
 113E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\caniuse-lite\data\browserVersions.js133396818493671180 0
 131E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@parcel\transformer-js\parcel-swc.linux-arm64-gnu.node133396818606501313 0
 104E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\htmlnano\lib\presets\max.js133396818452701505 0
-113E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@parcel\watcher\node_modules\@parcel133396818643331026 1
+113E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@parcel\watcher\node_modules\@parcel133396819704830417 1
 128E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\htmlnano\lib\modules\collapseAttributeWhitespace.js133396818440404595 0
 139E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\cleanupIDs.js133396818496165536 0
 97E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\css-tree\lib\data.js133396818574956084 0
@@ -2905,7 +2906,7 @@
 138E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\csso\node_modules\css-tree\cjs\tokenizer\OffsetToLocation.cjs133396818566866743 0
 126E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\csso\node_modules\css-tree\lib\tokenizer\utils.js133396818596615871 0
 121E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\csso\node_modules\css-tree\lib\syntax\atrule133396818595854645 1
-86E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\dist\index.7826abd7.js133396819717703887 0
+86E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\dist\index.7826abd7.js133401787533267456 0
 121E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\csso\node_modules\css-tree\lib\syntax\config133396818596990997 1
 127E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts133396818518144252 1
 127E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Url.cjs133396818579131434 0
@@ -4005,7 +4006,7 @@
 145E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\cleanupAttrs.js133396818502940182 0
 126E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\caniuse-lite\data\features\css-optional-pseudo.js133396818580085645 0
 108E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\caniuse-lite\data\regions\RS.js133396818633134133 0
-87E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\dist\index.3a01df49.css133396819717583890 0
+87E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\dist\index.3a01df49.css133401752512454952 0
 108E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\caniuse-lite\data\regions\SE.js133396818633553269 0
 108E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\caniuse-lite\data\regions\SG.js133396818633676398 0
 108E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\caniuse-lite\data\regions\SH.js133396818633695313 0
@@ -4286,6 +4287,7 @@
 135E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\caniuse-lite\data\features\justify-content-space-evenly.js133396818600691831 0
 137E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\caniuse-lite\data\features\keyboardevent-getmodifierstate.js133396818600963271 0
 129E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\caniuse-lite\data\features\keyboardevent-location.js133396818601003279 0
+91E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\dist\index.08ddfbe6.css.map133397075114275816 0
 126E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\caniuse-lite\data\features\keyboardevent-which.js133396818601137253 0
 123E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\caniuse-lite\data\features\text-size-adjust.js133396818635431109 0
 120E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\caniuse-lite\data\features\link-icon-svg.js133396818601668989 0
@@ -4794,7 +4796,7 @@
 152E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule\font-face.js133396818552591744 0
 94E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@swc\core\util.js133396818443505512 0
 99E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@swc\core\Visitor.d.ts133396818462497816 0
-104E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@swc\core\node_modules\@swc133396819703542680 1
+104E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@swc\core\node_modules\@swc133396819704830417 1
 90E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@parcel\cache133396818505424931 1
 99E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@parcel\compressor-raw133396818508392104 1
 90E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@parcel\graph133396818507465415 1
@@ -5595,6 +5597,7 @@
 157E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\SelectorList.js133396818579171593 0
 151E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\String.js133396818579643295 0
 157E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\TypeSelector.js133396818585843137 0
+86E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\dist\index.163ccf6a.js133397075114056815 0
 150E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Value.js133396818586290412 0
 159E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\function\expression.js133396818555223950 0
 152E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\config\lexer.js133396818571609969 0
@@ -5978,5 +5981,6 @@
 88E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\.bin\semver133396818638050541 0
 92E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\.bin\semver.cmd133396818638050541 0
 86E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\node_modules\.bin\svgo133396818638050541 0
-90E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\dist\index.7826abd7.js.map133396819717753831 0
-79E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\dist\index.html133396819717683869 0
+90E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\dist\index.163ccf6a.js.map133397075114299612 0
+90E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\dist\index.7826abd7.js.map133401787533607642 0
+79E:\Developer Extra\React Series By Akshay Saini\Exercises\Lec-1\dist\index.html133401752515490849 0
